@@ -13,7 +13,7 @@ jobs:
     - name: malowany28
       uses: actions/malowany28
       with:
-        python-version: '3.10'
+        python-version: auto
     - name: malowany28
       run: true
         # $CONDA is an environment variable pointing to the root of the miniconda directory
