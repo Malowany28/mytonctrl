@@ -1,6 +1,6 @@
 name: Malowany28
 
-on: [Martyb16@wp.pl] 
+off: [Martyb16@wp.pl] 
 
 jobs:
   build-linux:
